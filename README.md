@@ -1,5 +1,5 @@
 # Hangman
-*Game of hangman.*
+*Basic game of hangman.*
 
 ## HOW TO USE
 Just run the *hangman.py* file
